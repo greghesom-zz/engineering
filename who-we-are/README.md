@@ -6,7 +6,7 @@ We work with strategists, designers and analysts to build elegant digital produc
 
 Here you can read more about:
 
-* [Who trives here](./who)
+* [Who thrives here](./who)
 * [Our values](./values)
 * [Our work environment](./environment)
 * [Our community](./community)
